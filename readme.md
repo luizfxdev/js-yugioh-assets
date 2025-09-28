@@ -51,17 +51,17 @@ Controle e gestão de estados de jogo
 
 ## 🎨 Recursos do Jogo
 
-### 🎴 Tema Yu-Gi-Oh!
+ 🎴 **Tema Yu-Gi-Oh!**
 
-### ✊✋✌️ Mecânica baseada em Jokenpo
+ ✊✋✌️ **Mecânica baseada em Jokenpo**
 
-### 🎵 Efeitos visuais e sonoros imersivos
+🎵 **Efeitos visuais e sonoros imersivos**
 
-### 📱 Responsividade
+📱 **Responsividade**
 
-### 🎹 Controles via teclado
+ 🎹 **Controles via teclado**
 
-## 🎮 Como Jogar
+ 🎮 **Como Jogar**
 
 Selecione uma carta.
 
