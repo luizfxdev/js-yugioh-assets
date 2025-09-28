@@ -2,7 +2,7 @@
 
 ## 📖 Sobre o Projeto
 
-Este jogo foi desenvolvido como parte do Bootcamp Santander 2025 - Front-End, inspirado em um fork do repositório original do professor Felipe Aguiar [felipeAguiarCode](https://github.com/felipeAguiarCode)
+Este jogo foi desenvolvido como parte do Bootcamp Santander 2025 - Front-End, inspirado em um fork do repositório original do professor Felipe Aguiar ( [felipeAguiarCode](https://github.com/felipeAguiarCode) )
 , da Digital Innovation One (DIO).
 
 A proposta foi unir o universo Yu-Gi-Oh! com a mecânica clássica do Jokenpo (Pedra, Papel e Tesoura), criando uma experiência divertida, interativa e nostálgica.
