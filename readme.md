@@ -105,4 +105,4 @@ Projeto desenvolvido exclusivamente para fins educacionais durante o Bootcamp Sa
 ## 👨‍💻 Desenvolvedor
 
 🔗 Luiz Felipe de Oliveira 
-|[Linkedin](https://www.linkedin.com/in/luizfxdev)| [Portfólio](https://luizfxdev.com.br) | [Instagram]([@luizfx.dev](https://www.instagram.com/luizfx.dev)
+[Linkedin](https://www.linkedin.com/in/luizfxdev) –  [Portfólio](https://luizfxdev.com.br) –  [Instagram]([@luizfx.dev](https://www.instagram.com/luizfx.dev))
